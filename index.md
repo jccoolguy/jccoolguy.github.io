@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Investigating how the effects from IP and Cast on movie profitability have changed over time.
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
