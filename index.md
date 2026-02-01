@@ -4,8 +4,9 @@
 
 ### Investigating how the effects from IP and Cast on movie profitability have changed over time.
 
-[Project 1 Title](/sample_page)
-<img src="images/relative_difference_over_time_1.png?raw=true"/>
+[Blogpost](/sample_page)
+<img src="images/relative_change.png?raw=true"/>
+<img src="images/IP_percent.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
