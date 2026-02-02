@@ -2,8 +2,7 @@
 
 ---
 
-[Investigating how the effects from IP and Cast on movie profitability have changed over time](/blogpost)
-<a href="blogpost.html">Test</a>
+[Have Movie Stars Lost Their Edge? How IP and Cast Effects on Profitability Have Changed Over Time](https://jccoolguy.github.io/moviestar_analysis/blogpost.html)
 <img src="images/relative_change.png?raw=true"/>
 <img src="images/IP_percent.png?raw=true"/>
 
